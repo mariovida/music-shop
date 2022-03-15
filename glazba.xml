@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Izbor>
+  <Pjesma>
+    <Naziv>Butter</Naziv>
+    <Izvodac>BTS</Izvodac>
+    <Cijena>2.99$</Cijena>
+    <Slika>butter.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>good4u</Naziv>
+    <Izvodac>Olivia Rodrigo</Izvodac>
+    <Cijena>2.49$</Cijena>
+    <Slika>good4u.png</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Talking To The Moon</Naziv>
+    <Izvodac>Bruno Mars</Izvodac>
+    <Cijena>0.99$</Cijena>
+    <Slika>talkingtothemoon.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>deja vu</Naziv>
+    <Izvodac>Olivia Rodrigo</Izvodac>
+    <Cijena>2.49$</Cijena>
+    <Slika>dejavu.png</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Kiss Me More</Naziv>
+    <Izvodac>Doja Cat ft. SZA</Izvodac>
+    <Cijena>2.49$</Cijena>
+    <Slika>kissmemore.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Levitating</Naziv>
+    <Izvodac>Dua Lipa ft. DaBaby</Izvodac>
+    <Cijena>0.99$</Cijena>
+    <Slika>levitating.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Astronaut In The Ocean</Naziv>
+    <Izvodac>Masked Wolf</Izvodac>
+    <Cijena>1.49$</Cijena>
+    <Slika>astronaut.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Leave The Door Open</Naziv>
+    <Izvodac>Bruno Mars</Izvodac>
+    <Cijena>0.99$</Cijena>
+    <Slika>leavethedooropen.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>Todo De Ti</Naziv>
+    <Izvodac>Rauw Alejandro</Izvodac>
+    <Cijena>0.49$</Cijena>
+    <Slika>tododeti.jpg</Slika>
+  </Pjesma>
+  <Pjesma>
+    <Naziv>MONTERO</Naziv>
+    <Izvodac>Lil Nas X</Izvodac>
+    <Cijena>1.99$</Cijena>
+    <Slika>montero.jpg</Slika>
+  </Pjesma>
+</Izbor>
