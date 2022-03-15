@@ -1,5 +1,5 @@
-<h1 align="center">Hotel Booking and Management 🖥️</h1>
-<p align="center">Web application for room reservation and hotel room management<p>
+<h1 align="center">Music shop and info website 🎶️</h1>
+<p align="center">Website for finding out latest news from music industry<p>
 
 ![image](/img/screen_home.png)
 
