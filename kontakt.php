@@ -54,7 +54,7 @@
     <p class="kontakt_main">Kontakt</p>
     <p class="adresa">Broj telefona: +385(0) 1 472 9055</p>
     <p class="adresa">Broj mobitela: +385(0) 91 732 4270</p>
-    <p class="adresa">E-mail: mvidovic@tvz.hr</p>
+    <p class="adresa">E-mail: mv@gmail.hr</p>
     <a href="#"><i class="fab fa-instagram"></i></a>
     <a href="#"><i class="fab fa-facebook-f"></i></a>
     <a href="#"><i class="fab fa-twitter"></i><a/>
